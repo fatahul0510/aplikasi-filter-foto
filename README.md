@@ -51,6 +51,9 @@ Aplikasi akan terbuka otomatis di browser pada `http://localhost:8501`.
 
 ## Anggota Kelompok
 
-- [Nama Anggota 1]
-- [Nama Anggota 2]
-- [Nama Anggota 3]
+- Fatahul Laili Rahman 
+- Dimas andika Pratama
+- Ishadi nurfatih
+- Sheva cahyana widiawan
+- Shidqi habibi
+- Bagus rahardian pratama
